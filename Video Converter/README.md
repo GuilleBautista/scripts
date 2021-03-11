@@ -7,12 +7,12 @@ python3 convert_video.py [-h] [--dir DIR] [-R] [-r] input_format out_format
 
 Convert all video files from a directory from a format to another using ffmpeg.
 
-positional arguments:
+### positional arguments:
 
   input_format          video format of the already existing file
   out_format            video format of the new created file
 
-optional arguments:
+### optional arguments:
 
 -h, --help            show this help message and exit
 
